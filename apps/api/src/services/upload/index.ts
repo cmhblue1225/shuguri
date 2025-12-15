@@ -1,2 +1,2 @@
-export * from './parser'
-export * from './job-manager'
+export * from './parser.js'
+export * from './job-manager.js'
