@@ -2,7 +2,11 @@
 
 import { createContext, useContext, useReducer, useCallback, type ReactNode } from 'react'
 
-const API_BASE = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:3001'
+// Production: Railway API URL, Development: localhost
+const API_BASE = process.env.NEXT_PUBLIC_API_URL ||
+  (typeof window !== 'undefined' && window.location.hostname !== 'localhost'
+    ? 'https://shuguridanapi-production.up.railway.app'
+    : 'http://localhost:3001')
 
 // 메시지 타입
 export interface ChatMessage {
