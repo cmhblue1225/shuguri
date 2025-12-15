@@ -26,7 +26,7 @@ Railway는 모노레포를 지원합니다. 두 개의 서비스를 생성해야
 2. 동일 레포지토리 선택
 3. Settings에서:
    - **Root Directory**: `/` (루트)
-   - **Dockerfile Path**: `apps/api/Dockerfile`
+   - **Dockerfile Path**: `Dockerfile.api`
    - **Service Name**: `shuguridan-api`
 
 #### Web 서비스 생성
@@ -34,7 +34,7 @@ Railway는 모노레포를 지원합니다. 두 개의 서비스를 생성해야
 2. 동일 레포지토리 선택
 3. Settings에서:
    - **Root Directory**: `/` (루트)
-   - **Dockerfile Path**: `apps/web/Dockerfile`
+   - **Dockerfile Path**: `Dockerfile.web`
    - **Service Name**: `shuguridan-web`
 
 ---
@@ -156,10 +156,10 @@ curl https://your-api-url.railway.app/
 
 ```bash
 # API 빌드 테스트
-docker build -f apps/api/Dockerfile -t shuguridan-api .
+docker build -f Dockerfile.api -t shuguridan-api .
 
 # Web 빌드 테스트
-docker build -f apps/web/Dockerfile -t shuguridan-web \
+docker build -f Dockerfile.web -t shuguridan-web \
   --build-arg NEXT_PUBLIC_API_URL=http://localhost:3001 \
   --build-arg NEXT_PUBLIC_SUPABASE_URL=your-url \
   --build-arg NEXT_PUBLIC_SUPABASE_ANON_KEY=your-key .
