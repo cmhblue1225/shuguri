@@ -27,17 +27,13 @@ WORKDIR /app
 
 # Copy installed dependencies
 COPY --from=deps /app/node_modules ./node_modules
-COPY --from=deps /app/apps/api/node_modules ./apps/api/node_modules 2>/dev/null || true
-COPY --from=deps /app/packages/shared/node_modules ./packages/shared/node_modules 2>/dev/null || true
 
 # Copy source files
 COPY . .
 
-# Build shared package first
-RUN npm run build --workspace=@shuguridan/shared || true
-
-# Build the API
+# Build shared package first, then API
 ENV NODE_ENV=production
+RUN npm run build --workspace=@shuguridan/shared 2>/dev/null || echo "Shared build skipped"
 RUN npm run build --workspace=@shuguridan/api
 
 # Production image
@@ -50,7 +46,7 @@ ENV NODE_ENV=production
 RUN addgroup --system --gid 1001 nodejs
 RUN adduser --system --uid 1001 hono
 
-# Copy necessary files
+# Copy package files
 COPY --from=builder /app/package.json ./
 COPY --from=builder /app/package-lock.json ./
 COPY --from=builder /app/apps/api/package.json ./apps/api/
