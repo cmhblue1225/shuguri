@@ -50,10 +50,12 @@ app.route('/api/compile', compileRouter)
 app.route('/api/test', testRouter)
 
 const port = parseInt(process.env.PORT || '3001')
+const hostname = '0.0.0.0'
 
 serve({
   fetch: app.fetch,
   port,
+  hostname,
 }, (info) => {
-  console.log(`Server running on http://localhost:${info.port}`)
+  console.log(`Server running on http://${hostname}:${info.port}`)
 })
