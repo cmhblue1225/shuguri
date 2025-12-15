@@ -1,0 +1,4963 @@
+[
+  {
+    "filename": "page_00000.html",
+    "url": "https://en.cppreference.com/w/cpp/17.html",
+    "title": "C++17",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "high",
+    "category": "general",
+    "reason": "URL contains C++17 reference"
+  },
+  {
+    "filename": "page_00001.html",
+    "url": "https://en.cppreference.com/w/cpp/11.html",
+    "title": "C++11",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "high",
+    "category": "general",
+    "reason": "URL contains C++11 reference"
+  },
+  {
+    "filename": "page_00002.html",
+    "url": "https://en.cppreference.com/w/Cppreference%253AGeneral_disclaimer.html",
+    "title": "Cppreference:General disclaimer",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "low",
+    "category": "general",
+    "reason": "General reference page - assigned to both versions"
+  },
+  {
+    "filename": "page_00003.html",
+    "url": "https://en.cppreference.com/w/Cppreference%253AAbout.html",
+    "title": "Frequently asked questions",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "low",
+    "category": "general",
+    "reason": "Content mentions C++11"
+  },
+  {
+    "filename": "page_00004.html",
+    "url": "https://en.cppreference.com/w/Cppreference%253APrivacy_policy.html",
+    "title": "Cppreference:Privacy policy",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "low",
+    "category": "general",
+    "reason": "General reference page - assigned to both versions"
+  },
+  {
+    "filename": "page_00005.html",
+    "url": "https://en.cppreference.com/w/Cppreference%253AArchives.html",
+    "title": "Archives for offline viewing",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "low",
+    "category": "general",
+    "reason": "General reference page - assigned to both versions"
+  },
+  {
+    "filename": "page_00006.html",
+    "url": "https://en.cppreference.com/w/Category%253ATodo_without_reason.html",
+    "title": "Category:Todo without reason",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "low",
+    "category": "general",
+    "reason": "General reference page - assigned to both versions"
+  },
+  {
+    "filename": "page_00007.html",
+    "url": "https://en.cppreference.com/w/cpp/string/basic_string.html",
+    "title": "std::basic_string",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; Has C++11 since marker"
+  },
+  {
+    "filename": "page_00008.html",
+    "url": "https://en.cppreference.com/w/cpp/language/acronyms.html",
+    "title": "Acronyms",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "low",
+    "category": "language",
+    "reason": "No specific version detected - assigned to both"
+  },
+  {
+    "filename": "page_00009.html",
+    "url": "https://en.cppreference.com/w/cpp/io/manip.html",
+    "title": "Input/output manipulators",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker"
+  },
+  {
+    "filename": "page_00010.html",
+    "url": "https://en.cppreference.com/w/cpp/memory.html#Garbage_collector_support",
+    "title": "Memory management library",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00011.html",
+    "url": "https://en.cppreference.com/w/cpp/header/memory.html#Functions",
+    "title": "Standard library header <memory>",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "header",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: function"
+  },
+  {
+    "filename": "page_00012.html",
+    "url": "https://en.cppreference.com/w/cpp/meta.html#Type_traits",
+    "title": "Metaprogramming library (since C++11)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: type_traits"
+  },
+  {
+    "filename": "page_00013.html",
+    "url": "https://en.cppreference.com/w/cpp/regex.html",
+    "title": "Regular expressions library (since C++11)",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; URL matches C++11 feature: regex"
+  },
+  {
+    "filename": "page_00014.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_decltype",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: decltype"
+  },
+  {
+    "filename": "page_00015.html",
+    "url": "https://en.cppreference.com/w/cpp/language/decltype.html",
+    "title": "decltype specifier (since C++11)",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++17 since marker; Has C++11 since marker; URL matches C++11 feature: decltype"
+  },
+  {
+    "filename": "page_00016.html",
+    "url": "https://en.cppreference.com/w/cpp/language/final.html",
+    "title": "final specifier (since C++11)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; URL matches C++11 feature: final"
+  },
+  {
+    "filename": "page_00017.html",
+    "url": "https://en.cppreference.com/w/cpp/language/override.html",
+    "title": "override specifier (since C++11)",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; URL matches C++11 feature: override"
+  },
+  {
+    "filename": "page_00018.html",
+    "url": "https://en.cppreference.com/w/cpp/language/move_operator.html",
+    "title": "Move assignment operator",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++17 since marker; URL matches C++11 feature: move_operator"
+  },
+  {
+    "filename": "page_00019.html",
+    "url": "https://en.cppreference.com/w/cpp/language/move_constructor.html",
+    "title": "Move constructors",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++17 since marker; URL matches C++11 feature: move_constructor"
+  },
+  {
+    "filename": "page_00020.html",
+    "url": "https://en.cppreference.com/w/cpp/language/member_functions.html#Special_member_functions",
+    "title": "Non-static member functions",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; URL matches C++11 feature: function"
+  },
+  {
+    "filename": "page_00021.html",
+    "url": "https://en.cppreference.com/w/cpp/language/noexcept_spec.html",
+    "title": "noexcept specifier (since C++11)",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++17 since marker; Has C++11 since marker; URL matches C++11 feature: noexcept"
+  },
+  {
+    "filename": "page_00022.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_range_based_for",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00023.html",
+    "url": "https://en.cppreference.com/w/cpp/language/range-for.html",
+    "title": "Range-based for loop (since C++11)",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++17 since marker; URL matches C++11 feature: range-for"
+  },
+  {
+    "filename": "page_00024.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lambdas",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: lambda"
+  },
+  {
+    "filename": "page_00025.html",
+    "url": "https://en.cppreference.com/w/cpp/language/lambda.html",
+    "title": "Lambda expressions (since C++11)",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++17 since marker; Has C++11 since marker; URL matches C++11 feature: lambda"
+  },
+  {
+    "filename": "page_00026.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_rvalue_references",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: rvalue"
+  },
+  {
+    "filename": "page_00027.html",
+    "url": "https://en.cppreference.com/w/cpp/language/reference.html#Rvalue_references",
+    "title": "Reference declaration",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: rvalue"
+  },
+  {
+    "filename": "page_00028.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_user_defined_literals",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00029.html",
+    "url": "https://en.cppreference.com/w/cpp/language/user_literal.html",
+    "title": "User-defined literals (since C++11)",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++17 since marker; URL matches C++11 feature: user_literal"
+  },
+  {
+    "filename": "page_00030.html",
+    "url": "https://en.cppreference.com/w/cpp/language/enum.html",
+    "title": "Enumeration declaration",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: enum"
+  },
+  {
+    "filename": "page_00031.html",
+    "url": "https://en.cppreference.com/w/cpp/language/attributes/carries_dependency.html",
+    "title": "C++ attribute: carries_dependency (since C++11)(removed in C++26)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker"
+  },
+  {
+    "filename": "page_00032.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_attributes",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00033.html",
+    "url": "https://en.cppreference.com/w/cpp/language/attributes/noreturn.html",
+    "title": "C++ attribute: noreturn (since C++11)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00034.html",
+    "url": "https://en.cppreference.com/w/cpp/language/attributes.html",
+    "title": "Attribute specifier sequence (since C++11)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00035.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_nsdmi",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00036.html",
+    "url": "https://en.cppreference.com/w/cpp/language/data_members.html#Member_initialization",
+    "title": "Non-static data members",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00037.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_initializer_lists",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: initializer_list"
+  },
+  {
+    "filename": "page_00038.html",
+    "url": "https://en.cppreference.com/w/cpp/language/list_initialization.html",
+    "title": "List-initialization (since C++11)",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++17 since marker; URL matches C++11 feature: list_initialization"
+  },
+  {
+    "filename": "page_00039.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_threadsafe_static_init",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: thread"
+  },
+  {
+    "filename": "page_00040.html",
+    "url": "https://en.cppreference.com/w/cpp/language/storage_duration.html#Static_local_variables",
+    "title": "Storage class specifiers",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: ratio"
+  },
+  {
+    "filename": "page_00041.html",
+    "url": "https://en.cppreference.com/w/cpp/language/storage_duration.html",
+    "title": "Storage class specifiers",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: ratio"
+  },
+  {
+    "filename": "page_00042.html",
+    "url": "https://en.cppreference.com/w/cpp/language/sfinae.html#Expression_SFINAE",
+    "title": "SFINAE",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00043.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_variadic_templates",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: variadic"
+  },
+  {
+    "filename": "page_00044.html",
+    "url": "https://en.cppreference.com/w/cpp/language/parameter_pack.html",
+    "title": "Pack (since C++11)",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++17 since marker; URL matches C++11 feature: parameter_pack"
+  },
+  {
+    "filename": "page_00045.html",
+    "url": "https://en.cppreference.com/w/cpp/language/union.html",
+    "title": "Union declaration",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00046.html",
+    "url": "https://en.cppreference.com/w/cpp/language/function.html#Function_declaration",
+    "title": "Function declaration",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: ratio"
+  },
+  {
+    "filename": "page_00047.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_inheriting_constructors",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00048.html",
+    "url": "https://en.cppreference.com/w/cpp/language/using_declaration.html#Inheriting_constructors",
+    "title": "Using-declaration",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++17 since marker; Has C++11 since marker; URL matches C++11 feature: ratio"
+  },
+  {
+    "filename": "page_00049.html",
+    "url": "https://en.cppreference.com/w/cpp/language/namespace.html#Inline_namespaces",
+    "title": "Namespaces",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00050.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_unicode_literals",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00051.html",
+    "url": "https://en.cppreference.com/w/cpp/language/string_literal.html",
+    "title": "String literal",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker"
+  },
+  {
+    "filename": "page_00052.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_raw_strings",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00053.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_ref_qualifiers",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00054.html",
+    "url": "https://en.cppreference.com/w/cpp/language/cast_operator.html",
+    "title": "User-defined conversion function",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker"
+  },
+  {
+    "filename": "page_00055.html",
+    "url": "https://en.cppreference.com/w/cpp/language/nullptr.html",
+    "title": "nullptr, the pointer literal (since C++11)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; URL matches C++11 feature: nullptr"
+  },
+  {
+    "filename": "page_00056.html",
+    "url": "https://en.cppreference.com/w/cpp/atomic.html#Atomic_operations",
+    "title": "Concurrency support library (since C++11)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: atomic"
+  },
+  {
+    "filename": "page_00057.html",
+    "url": "https://en.cppreference.com/w/cpp/language/enum.html#Scoped_enumerations",
+    "title": "Enumeration declaration",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: enum"
+  },
+  {
+    "filename": "page_00058.html",
+    "url": "https://en.cppreference.com/w/cpp/language/alignof.html",
+    "title": "alignof operator (since C++11)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; URL matches C++11 feature: alignof"
+  },
+  {
+    "filename": "page_00059.html",
+    "url": "https://en.cppreference.com/w/cpp/language/alignas.html",
+    "title": "alignas specifier (since C++11)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; URL matches C++11 feature: alignas"
+  },
+  {
+    "filename": "page_00060.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_alias_templates",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00061.html",
+    "url": "https://en.cppreference.com/w/cpp/language/type_alias.html",
+    "title": "Type alias, alias template (since C++11)",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "URL matches C++11 feature: type_alias"
+  },
+  {
+    "filename": "page_00062.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_unicode_characters",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00063.html",
+    "url": "https://en.cppreference.com/w/cpp/language/types.html#char32_t",
+    "title": "Fundamental types",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker"
+  },
+  {
+    "filename": "page_00064.html",
+    "url": "https://en.cppreference.com/w/cpp/language/types.html#char16_t",
+    "title": "Fundamental types",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker"
+  },
+  {
+    "filename": "page_00065.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_constexpr",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: constexpr"
+  },
+  {
+    "filename": "page_00066.html",
+    "url": "https://en.cppreference.com/w/cpp/language/constexpr.html",
+    "title": "constexpr specifier (since C++11)",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++17 since marker; URL matches C++11 feature: constexpr"
+  },
+  {
+    "filename": "page_00067.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_delegating_constructors",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00068.html",
+    "url": "https://en.cppreference.com/w/cpp/language/initializer_list.html#Delegating_constructor",
+    "title": "Constructors and member initializer lists",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: initializer_list"
+  },
+  {
+    "filename": "page_00069.html",
+    "url": "https://en.cppreference.com/w/cpp/language/auto.html",
+    "title": "Placeholder type specifiers (since C++11)",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++17 since marker; URL matches C++11 feature: auto"
+  },
+  {
+    "filename": "page_00070.html",
+    "url": "https://en.cppreference.com/w/cpp/language/types.html#long_long",
+    "title": "Fundamental types",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker"
+  },
+  {
+    "filename": "page_00071.html",
+    "url": "https://en.cppreference.com/w/cpp/language/friend.html",
+    "title": "Friend declaration",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker"
+  },
+  {
+    "filename": "page_00072.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_static_assert",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: static_assert"
+  },
+  {
+    "filename": "page_00073.html",
+    "url": "https://en.cppreference.com/w/cpp/language/static_assert.html",
+    "title": "static_assert declaration (since C++11)",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++17 since marker; Has C++11 since marker; URL matches C++11 feature: static_assert"
+  },
+  {
+    "filename": "page_00074.html",
+    "url": "https://en.cppreference.com/w/cpp/preprocessor.html",
+    "title": "Preprocessor",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++17 since marker; Has C++11 since marker"
+  },
+  {
+    "filename": "page_00075.html",
+    "url": "https://en.cppreference.com/w/cpp/container/vector/shrink_to_fit.html",
+    "title": "std::vector<T,Allocator>::shrink_to_fit",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker"
+  },
+  {
+    "filename": "page_00076.html",
+    "url": "https://en.cppreference.com/w/cpp/container/deque/shrink_to_fit.html",
+    "title": "std::deque<T,Allocator>::shrink_to_fit",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker"
+  },
+  {
+    "filename": "page_00077.html",
+    "url": "https://en.cppreference.com/w/cpp/string/basic_string/shrink_to_fit.html",
+    "title": "std::basic_string<CharT,Traits,Allocator>::shrink_to_fit",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "low",
+    "category": "library",
+    "reason": "No specific version detected - assigned to both"
+  },
+  {
+    "filename": "page_00078.html",
+    "url": "https://en.cppreference.com/w/cpp/string/basic_string/pop_back.html",
+    "title": "std::basic_string<CharT,Traits,Allocator>::pop_back",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "low",
+    "category": "library",
+    "reason": "No specific version detected - assigned to both"
+  },
+  {
+    "filename": "page_00079.html",
+    "url": "https://en.cppreference.com/w/cpp/string/basic_string/front.html",
+    "title": "std::basic_string<CharT,Traits,Allocator>::front",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "low",
+    "category": "library",
+    "reason": "No specific version detected - assigned to both"
+  },
+  {
+    "filename": "page_00080.html",
+    "url": "https://en.cppreference.com/w/cpp/string/basic_string/back.html",
+    "title": "std::basic_string<CharT,Traits,Allocator>::back",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "low",
+    "category": "library",
+    "reason": "No specific version detected - assigned to both"
+  },
+  {
+    "filename": "page_00081.html",
+    "url": "https://en.cppreference.com/w/cpp/11.html#cite_ref-libstd_1-2",
+    "title": "C++11",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "high",
+    "category": "general",
+    "reason": "URL contains C++11 reference"
+  },
+  {
+    "filename": "page_00082.html",
+    "url": "https://en.cppreference.com/w/cpp/11.html#cite_ref-libstd_1-1",
+    "title": "C++11",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "high",
+    "category": "general",
+    "reason": "URL contains C++11 reference"
+  },
+  {
+    "filename": "page_00083.html",
+    "url": "https://en.cppreference.com/w/cpp/11.html#cite_ref-libstd_1-0",
+    "title": "C++11",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "high",
+    "category": "general",
+    "reason": "URL contains C++11 reference"
+  },
+  {
+    "filename": "page_00084.html",
+    "url": "https://en.cppreference.com/w/cpp/11.html#cite_note-libstd-1",
+    "title": "C++11",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "high",
+    "category": "general",
+    "reason": "URL contains C++11 reference"
+  },
+  {
+    "filename": "page_00085.html",
+    "url": "https://en.cppreference.com/w/cpp/string/multibyte.html",
+    "title": "Null-terminated multibyte strings",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; URL matches C++17 feature: byte"
+  },
+  {
+    "filename": "page_00086.html",
+    "url": "https://en.cppreference.com/w/cpp/iterator/prev.html",
+    "title": "std::prev",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00087.html",
+    "url": "https://en.cppreference.com/w/cpp/iterator/next.html",
+    "title": "std::next",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00088.html",
+    "url": "https://en.cppreference.com/w/cpp/iterator/end.html",
+    "title": "std::end, std::cend",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00089.html",
+    "url": "https://en.cppreference.com/w/cpp/iterator/begin.html",
+    "title": "std::begin, std::cbegin",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00090.html",
+    "url": "https://en.cppreference.com/w/cpp/iterator.html",
+    "title": "Iterator library",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++17 since marker; Has C++11 since marker"
+  },
+  {
+    "filename": "page_00091.html",
+    "url": "https://en.cppreference.com/w/cpp/error/error_condition.html",
+    "title": "std::error_condition",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00092.html",
+    "url": "https://en.cppreference.com/w/cpp/error/error_code.html",
+    "title": "std::error_code",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker"
+  },
+  {
+    "filename": "page_00093.html",
+    "url": "https://en.cppreference.com/w/cpp/error/exception_ptr.html",
+    "title": "std::exception_ptr",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker"
+  },
+  {
+    "filename": "page_00094.html",
+    "url": "https://en.cppreference.com/w/cpp/utility/functional/function.html",
+    "title": "std::function",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: function"
+  },
+  {
+    "filename": "page_00095.html",
+    "url": "https://en.cppreference.com/w/cpp/locale.html#Locale-independent_unicode_conversion_facets",
+    "title": "Localization library",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker"
+  },
+  {
+    "filename": "page_00096.html",
+    "url": "https://en.cppreference.com/w/cpp/memory/uninitialized_copy_n.html",
+    "title": "std::uninitialized_copy_n",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00097.html",
+    "url": "https://en.cppreference.com/w/cpp/algorithm/iota.html",
+    "title": "std::iota",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker"
+  },
+  {
+    "filename": "page_00098.html",
+    "url": "https://en.cppreference.com/w/cpp/algorithm/is_permutation.html",
+    "title": "std::is_permutation",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker"
+  },
+  {
+    "filename": "page_00099.html",
+    "url": "https://en.cppreference.com/w/cpp/algorithm/minmax_element.html",
+    "title": "std::minmax_element",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00100.html",
+    "url": "https://en.cppreference.com/w/cpp/algorithm/minmax.html",
+    "title": "std::minmax",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker"
+  },
+  {
+    "filename": "page_00101.html",
+    "url": "https://en.cppreference.com/w/cpp/algorithm/is_heap_until.html",
+    "title": "std::is_heap_until",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00102.html",
+    "url": "https://en.cppreference.com/w/cpp/algorithm/is_heap.html",
+    "title": "std::is_heap",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00103.html",
+    "url": "https://en.cppreference.com/w/cpp/algorithm/is_sorted_until.html",
+    "title": "std::is_sorted_until",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00104.html",
+    "url": "https://en.cppreference.com/w/cpp/algorithm/is_sorted.html",
+    "title": "std::is_sorted",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00105.html",
+    "url": "https://en.cppreference.com/w/cpp/algorithm/partition_point.html",
+    "title": "std::partition_point",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker"
+  },
+  {
+    "filename": "page_00106.html",
+    "url": "https://en.cppreference.com/w/cpp/algorithm/partition_copy.html",
+    "title": "std::partition_copy",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00107.html",
+    "url": "https://en.cppreference.com/w/cpp/algorithm/is_partitioned.html",
+    "title": "std::is_partitioned",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00108.html",
+    "url": "https://en.cppreference.com/w/cpp/algorithm/random_shuffle.html",
+    "title": "std::random_shuffle, std::shuffle",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; URL matches C++11 feature: random; Removed in C++17: random_shuffle"
+  },
+  {
+    "filename": "page_00109.html",
+    "url": "https://en.cppreference.com/w/cpp/algorithm/move_backward.html",
+    "title": "std::move_backward",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker"
+  },
+  {
+    "filename": "page_00110.html",
+    "url": "https://en.cppreference.com/w/cpp/algorithm/move.html",
+    "title": "std::move",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00111.html",
+    "url": "https://en.cppreference.com/w/cpp/algorithm/copy_n.html",
+    "title": "std::copy_n",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00112.html",
+    "url": "https://en.cppreference.com/w/cpp/algorithm/copy.html",
+    "title": "std::copy, std::copy_if",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; Has C++11 since marker"
+  },
+  {
+    "filename": "page_00113.html",
+    "url": "https://en.cppreference.com/w/cpp/algorithm/find.html",
+    "title": "std::find, std::find_if, std::find_if_not",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; Has C++11 since marker"
+  },
+  {
+    "filename": "page_00114.html",
+    "url": "https://en.cppreference.com/w/cpp/algorithm/none_of.html",
+    "title": "std::all_of, std::any_of, std::none_of",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00115.html",
+    "url": "https://en.cppreference.com/w/cpp/algorithm.html",
+    "title": "Algorithms library",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++17 since marker; Has C++11 since marker"
+  },
+  {
+    "filename": "page_00116.html",
+    "url": "https://en.cppreference.com/w/cpp/utility/ratio.html",
+    "title": "Compile-time rational arithmetic (since C++11)",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; URL matches C++11 feature: ratio"
+  },
+  {
+    "filename": "page_00117.html",
+    "url": "https://en.cppreference.com/w/cpp/chrono.html",
+    "title": "Date and time library",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; URL matches C++11 feature: chrono"
+  },
+  {
+    "filename": "page_00118.html",
+    "url": "https://en.cppreference.com/w/cpp/container/forward_list.html",
+    "title": "std::forward_list",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: forward_list"
+  },
+  {
+    "filename": "page_00119.html",
+    "url": "https://en.cppreference.com/w/cpp/memory/scoped_allocator_adaptor.html",
+    "title": "std::scoped_allocator_adaptor",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: scoped_allocator"
+  },
+  {
+    "filename": "page_00120.html",
+    "url": "https://en.cppreference.com/w/cpp/named_req/Allocator.html#Stateful_and_stateless_allocators",
+    "title": "C++ named requirements: Allocator",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00121.html",
+    "url": "https://en.cppreference.com/w/cpp/utility/initializer_list.html",
+    "title": "std::initializer_list",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: initializer_list"
+  },
+  {
+    "filename": "page_00122.html",
+    "url": "https://en.cppreference.com/w/cpp/iterator/move_iterator.html",
+    "title": "std::move_iterator",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; URL matches C++11 feature: move_iterator"
+  },
+  {
+    "filename": "page_00123.html",
+    "url": "https://en.cppreference.com/w/cpp/memory/unique_ptr.html",
+    "title": "std::unique_ptr",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: unique_ptr"
+  },
+  {
+    "filename": "page_00124.html",
+    "url": "https://en.cppreference.com/w/cpp/atomic.html",
+    "title": "Concurrency support library (since C++11)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: atomic"
+  },
+  {
+    "filename": "page_00125.html",
+    "url": "https://en.cppreference.com/w/cpp/header/unordered_set.html",
+    "title": "Standard library header <unordered_set> (C++11)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "header",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: unordered_set"
+  },
+  {
+    "filename": "page_00126.html",
+    "url": "https://en.cppreference.com/w/cpp/header/unordered_map.html",
+    "title": "Standard library header <unordered_map> (C++11)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "header",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: unordered_map"
+  },
+  {
+    "filename": "page_00127.html",
+    "url": "https://en.cppreference.com/w/cpp/header/type_traits.html",
+    "title": "Standard library header <type_traits> (C++11)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "header",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: type_traits"
+  },
+  {
+    "filename": "page_00128.html",
+    "url": "https://en.cppreference.com/w/cpp/header/typeindex.html",
+    "title": "Standard library header <typeindex> (C++11)",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "header",
+    "reason": "Has C++11 since marker"
+  },
+  {
+    "filename": "page_00129.html",
+    "url": "https://en.cppreference.com/w/cpp/header/tuple.html",
+    "title": "Standard library header <tuple> (C++11)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "header",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: tuple"
+  },
+  {
+    "filename": "page_00130.html",
+    "url": "https://en.cppreference.com/w/cpp/header/thread.html",
+    "title": "Standard library header <thread> (C++11)",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "header",
+    "reason": "Has C++11 since marker; URL matches C++11 feature: thread"
+  },
+  {
+    "filename": "page_00131.html",
+    "url": "https://en.cppreference.com/w/cpp/header/system_error.html",
+    "title": "Standard library header <system_error> (C++11)",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "header",
+    "reason": "Has C++11 since marker"
+  },
+  {
+    "filename": "page_00132.html",
+    "url": "https://en.cppreference.com/w/cpp/header/scoped_allocator.html",
+    "title": "Standard library header <scoped_allocator> (C++11)",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "header",
+    "reason": "Has C++11 since marker; URL matches C++11 feature: scoped_allocator"
+  },
+  {
+    "filename": "page_00133.html",
+    "url": "https://en.cppreference.com/w/cpp/header/regex.html",
+    "title": "Standard library header <regex> (C++11)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "header",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: regex"
+  },
+  {
+    "filename": "page_00134.html",
+    "url": "https://en.cppreference.com/w/cpp/header/ratio.html",
+    "title": "Standard library header <ratio> (C++11)",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "header",
+    "reason": "Has C++11 since marker; URL matches C++11 feature: ratio"
+  },
+  {
+    "filename": "page_00135.html",
+    "url": "https://en.cppreference.com/w/cpp/header/random.html",
+    "title": "Standard library header <random> (C++11)",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "header",
+    "reason": "Has C++11 since marker; URL matches C++11 feature: random"
+  },
+  {
+    "filename": "page_00136.html",
+    "url": "https://en.cppreference.com/w/cpp/header/mutex.html",
+    "title": "Standard library header <mutex> (C++11)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "header",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: mutex"
+  },
+  {
+    "filename": "page_00137.html",
+    "url": "https://en.cppreference.com/w/cpp/header/initializer_list.html",
+    "title": "Standard library header <initializer_list> (C++11)",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "header",
+    "reason": "Has C++11 since marker; URL matches C++11 feature: initializer_list"
+  },
+  {
+    "filename": "page_00138.html",
+    "url": "https://en.cppreference.com/w/cpp/header/future.html",
+    "title": "Standard library header <future> (C++11)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "header",
+    "reason": "Has C++11 since marker; URL matches C++11 feature: future"
+  },
+  {
+    "filename": "page_00139.html",
+    "url": "https://en.cppreference.com/w/cpp/header/forward_list.html",
+    "title": "Standard library header <forward_list> (C++11)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "header",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: forward_list"
+  },
+  {
+    "filename": "page_00140.html",
+    "url": "https://en.cppreference.com/w/cpp/header/cuchar.html",
+    "title": "Standard library header <cuchar> (C++11)",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "header",
+    "reason": "Has C++11 since marker"
+  },
+  {
+    "filename": "page_00141.html",
+    "url": "https://en.cppreference.com/w/cpp/header/cstdint.html",
+    "title": "Standard library header <cstdint> (C++11)",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "header",
+    "reason": "Has C++11 since marker"
+  },
+  {
+    "filename": "page_00142.html",
+    "url": "https://en.cppreference.com/w/cpp/header/condition_variable.html",
+    "title": "Standard library header <condition_variable> (C++11)",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "header",
+    "reason": "Has C++11 since marker; URL matches C++11 feature: condition_variable"
+  },
+  {
+    "filename": "page_00143.html",
+    "url": "https://en.cppreference.com/w/cpp/header/cinttypes.html",
+    "title": "Standard library header <cinttypes> (C++11)",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "header",
+    "reason": "Has C++11 since marker"
+  },
+  {
+    "filename": "page_00144.html",
+    "url": "https://en.cppreference.com/w/cpp/header/chrono.html",
+    "title": "Standard library header <chrono> (C++11)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "header",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: chrono"
+  },
+  {
+    "filename": "page_00145.html",
+    "url": "https://en.cppreference.com/w/cpp/header/cfenv.html",
+    "title": "Standard library header <cfenv> (C++11)",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "header",
+    "reason": "Has C++11 since marker"
+  },
+  {
+    "filename": "page_00146.html",
+    "url": "https://en.cppreference.com/w/cpp/header/atomic.html",
+    "title": "Standard library header <atomic> (C++11)",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "header",
+    "reason": "Has C++11 since marker; URL matches C++11 feature: atomic"
+  },
+  {
+    "filename": "page_00147.html",
+    "url": "https://en.cppreference.com/w/cpp/header/array.html",
+    "title": "Standard library header <array> (C++11)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "header",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: array"
+  },
+  {
+    "filename": "page_00148.html",
+    "url": "https://en.cppreference.com/w/cpp/memory.html#Garbage_collector_support_.28until_C.2B.2B23.29",
+    "title": "Memory management library",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00149.html",
+    "url": "https://en.cppreference.com/w/cpp/language/storage_duration.html#Storage_duration",
+    "title": "Storage class specifiers",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: ratio"
+  },
+  {
+    "filename": "page_00150.html",
+    "url": "https://en.cppreference.com/w/cpp/language/memory_model.html",
+    "title": "Memory model",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "URL matches C++11 feature: memory_model"
+  },
+  {
+    "filename": "page_00151.html",
+    "url": "https://en.cppreference.com/w/cpp/language/noexcept.html",
+    "title": "noexcept operator (since C++11)",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++17 since marker; Has C++11 since marker; URL matches C++11 feature: noexcept"
+  },
+  {
+    "filename": "page_00152.html",
+    "url": "https://en.cppreference.com/w/cpp/named_req/StandardLayoutType.html",
+    "title": "C++ named requirements: StandardLayoutType (since C++11)",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker"
+  },
+  {
+    "filename": "page_00153.html",
+    "url": "https://en.cppreference.com/w/cpp/named_req/TrivialType.html",
+    "title": "C++ named requirements: TrivialType (since C++11)(deprecated in C++26)",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker"
+  },
+  {
+    "filename": "page_00154.html",
+    "url": "https://en.cppreference.com/w/cpp/named_req/PODType.html",
+    "title": "C++ named requirements: PODType (deprecated in C++20)",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker"
+  },
+  {
+    "filename": "page_00155.html",
+    "url": "https://en.cppreference.com/w/cpp/language/types.html#Character_types",
+    "title": "Fundamental types",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker"
+  },
+  {
+    "filename": "page_00156.html",
+    "url": "https://en.cppreference.com/w/cpp/language/types.html#Integer_types",
+    "title": "Fundamental types",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker"
+  },
+  {
+    "filename": "page_00157.html",
+    "url": "https://en.cppreference.com/w/cpp/language/initialization.html",
+    "title": "Initialization",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00158.html",
+    "url": "https://en.cppreference.com/w/cpp/language/using_declaration.html",
+    "title": "Using-declaration",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++17 since marker; Has C++11 since marker; URL matches C++11 feature: ratio"
+  },
+  {
+    "filename": "page_00159.html",
+    "url": "https://en.cppreference.com/w/cpp/named_req/LiteralType.html",
+    "title": "C++ named requirements: LiteralType (since C++11)",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++17 since marker; Has C++11 since marker"
+  },
+  {
+    "filename": "page_00160.html",
+    "url": "https://en.cppreference.com/w/cpp/language/reference.html",
+    "title": "Reference declaration",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00161.html",
+    "url": "https://en.cppreference.com/w/cpp/language/function.html#Deleted_functions",
+    "title": "Function declaration",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: deleted"
+  },
+  {
+    "filename": "page_00162.html",
+    "url": "https://en.cppreference.com/w/cpp/language/function.html#Function_definition",
+    "title": "Function declaration",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: function"
+  },
+  {
+    "filename": "page_00163.html",
+    "url": "https://en.cppreference.com/w/cpp/11.html#External_links",
+    "title": "C++11",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "high",
+    "category": "general",
+    "reason": "URL contains C++11 reference"
+  },
+  {
+    "filename": "page_00164.html",
+    "url": "https://en.cppreference.com/w/cpp/11.html#C.2B.2B11_library_features",
+    "title": "C++11",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "high",
+    "category": "general",
+    "reason": "URL contains C++11 reference"
+  },
+  {
+    "filename": "page_00165.html",
+    "url": "https://en.cppreference.com/w/cpp/11.html#C.2B.2B11_core_language_features",
+    "title": "C++11",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "high",
+    "category": "general",
+    "reason": "URL contains C++11 reference"
+  },
+  {
+    "filename": "page_00166.html",
+    "url": "https://en.cppreference.com/w/cpp/11.html#Compiler_support",
+    "title": "C++11",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "high",
+    "category": "general",
+    "reason": "URL contains C++11 reference"
+  },
+  {
+    "filename": "page_00167.html",
+    "url": "https://en.cppreference.com/w/cpp/11.html#Defect_reports",
+    "title": "C++11",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "high",
+    "category": "general",
+    "reason": "URL contains C++11 reference"
+  },
+  {
+    "filename": "page_00168.html",
+    "url": "https://en.cppreference.com/w/cpp/11.html#Library_features_2",
+    "title": "C++11",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "high",
+    "category": "general",
+    "reason": "URL contains C++11 reference"
+  },
+  {
+    "filename": "page_00169.html",
+    "url": "https://en.cppreference.com/w/cpp/11.html#Headers",
+    "title": "C++11",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "high",
+    "category": "general",
+    "reason": "URL contains C++11 reference"
+  },
+  {
+    "filename": "page_00170.html",
+    "url": "https://en.cppreference.com/w/cpp/11.html#Library_features",
+    "title": "C++11",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "high",
+    "category": "general",
+    "reason": "URL contains C++11 reference"
+  },
+  {
+    "filename": "page_00171.html",
+    "url": "https://en.cppreference.com/w/cpp/11.html#Core_language_features",
+    "title": "C++11",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "high",
+    "category": "general",
+    "reason": "URL contains C++11 reference"
+  },
+  {
+    "filename": "page_00172.html",
+    "url": "https://en.cppreference.com/w/cpp/numeric/special_math.html",
+    "title": "Mathematical special functions (since C++17)",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker"
+  },
+  {
+    "filename": "page_00173.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental.html",
+    "title": "Experimental C++ Features",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "low",
+    "category": "general",
+    "reason": "Content mentions C++11"
+  },
+  {
+    "filename": "page_00174.html",
+    "url": "https://en.cppreference.com/w/cpp/current_status.html",
+    "title": "Current Status",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "low",
+    "category": "general",
+    "reason": "General reference page - assigned to both versions"
+  },
+  {
+    "filename": "page_00175.html",
+    "url": "https://en.cppreference.com/w/cpp/26.html",
+    "title": "C++26",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "low",
+    "category": "general",
+    "reason": "General reference page - assigned to both versions"
+  },
+  {
+    "filename": "page_00176.html",
+    "url": "https://en.cppreference.com/w/cpp/23.html",
+    "title": "C++23",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "low",
+    "category": "general",
+    "reason": "General reference page - assigned to both versions"
+  },
+  {
+    "filename": "page_00177.html",
+    "url": "https://en.cppreference.com/w/cpp/20.html",
+    "title": "C++20",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "low",
+    "category": "general",
+    "reason": "Content mentions C++17"
+  },
+  {
+    "filename": "page_00178.html",
+    "url": "https://en.cppreference.com/w/cpp/14.html",
+    "title": "C++14",
+    "versions": [
+      "cpp11"
+    ],
+    "confidence": "low",
+    "category": "general",
+    "reason": "Content mentions C++11"
+  },
+  {
+    "filename": "page_00179.html",
+    "url": "https://en.cppreference.com/w/cpp.html",
+    "title": "C++ reference",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00180.html",
+    "url": "https://en.cppreference.com/w/cpp/links/libs.html",
+    "title": "A list of open-source C++ libraries",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "low",
+    "category": "general",
+    "reason": "Content mentions C++11"
+  },
+  {
+    "filename": "page_00181.html",
+    "url": "https://en.cppreference.com/w/cpp/symbol_index.html",
+    "title": "std Symbol Index",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00182.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/execution.html",
+    "title": "Execution control library (since C++26)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; URL matches C++17 feature: execution"
+  },
+  {
+    "filename": "page_00183.html",
+    "url": "https://en.cppreference.com/w/cpp/filesystem.html",
+    "title": "Filesystem library (since C++17)",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++17 since marker; URL matches C++17 feature: filesystem"
+  },
+  {
+    "filename": "page_00184.html",
+    "url": "https://en.cppreference.com/w/cpp/io.html",
+    "title": "Input/output library",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00185.html",
+    "url": "https://en.cppreference.com/w/cpp/numeric.html",
+    "title": "Numerics library",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++17 since marker; Has C++11 since marker"
+  },
+  {
+    "filename": "page_00186.html",
+    "url": "https://en.cppreference.com/w/cpp/text.html",
+    "title": "Text processing library",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00187.html",
+    "url": "https://en.cppreference.com/w/cpp/string.html",
+    "title": "Strings library",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00188.html",
+    "url": "https://en.cppreference.com/w/cpp/ranges.html",
+    "title": "Ranges library (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "low",
+    "category": "general",
+    "reason": "General reference page - assigned to both versions"
+  },
+  {
+    "filename": "page_00189.html",
+    "url": "https://en.cppreference.com/w/cpp/container.html",
+    "title": "Containers library",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00190.html",
+    "url": "https://en.cppreference.com/w/cpp/utility.html",
+    "title": "Utility library",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00191.html",
+    "url": "https://en.cppreference.com/w/cpp/meta.html",
+    "title": "Metaprogramming library (since C++11)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00192.html",
+    "url": "https://en.cppreference.com/w/cpp/memory.html",
+    "title": "Memory management library",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00193.html",
+    "url": "https://en.cppreference.com/w/cpp/error.html",
+    "title": "Diagnostics library",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++17 since marker; Has C++11 since marker"
+  },
+  {
+    "filename": "page_00194.html",
+    "url": "https://en.cppreference.com/w/cpp/concepts.html",
+    "title": "Concepts library (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "low",
+    "category": "general",
+    "reason": "General reference page - assigned to both versions"
+  },
+  {
+    "filename": "page_00195.html",
+    "url": "https://en.cppreference.com/w/cpp/utility.html#Language_support",
+    "title": "Utility library",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00196.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00197.html",
+    "url": "https://en.cppreference.com/w/cpp/iterator/concepts.html",
+    "title": "Named Requirements",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00198.html",
+    "url": "https://en.cppreference.com/w/cpp/headers.html",
+    "title": "C++ Standard Library headers",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++17 since marker; Has C++11 since marker"
+  },
+  {
+    "filename": "page_00199.html",
+    "url": "https://en.cppreference.com/w/cpp/standard_library.html",
+    "title": "C++ Standard Library",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00200.html",
+    "url": "https://en.cppreference.com/w/cpp/language.html",
+    "title": "C++ language",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00201.html",
+    "url": "https://en.cppreference.com/w/cpp/freestanding.html",
+    "title": "Freestanding and hosted implementations",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker"
+  },
+  {
+    "filename": "page_00202.html",
+    "url": "https://en.cppreference.com/w/cpp/compiler_support.html",
+    "title": "C++ compiler support",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "low",
+    "category": "general",
+    "reason": "Content mentions C++11"
+  },
+  {
+    "filename": "page_00203.html",
+    "url": "https://en.cppreference.com/index.html",
+    "title": "C and C++ reference",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00204.html",
+    "url": "https://en.cppreference.com/w/cpp/filesystem/path/hash.html",
+    "title": "std::hash<std::filesystem::path>",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; Has C++11 since marker; URL matches C++17 feature: filesystem"
+  },
+  {
+    "filename": "page_00205.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_is_invocable",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++17 feature: is_invocable"
+  },
+  {
+    "filename": "page_00206.html",
+    "url": "https://en.cppreference.com/w/cpp/types/result_of.html",
+    "title": "std::result_of, std::invoke_result",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00207.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_is_aggregate",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++17 feature: is_aggregate"
+  },
+  {
+    "filename": "page_00208.html",
+    "url": "https://en.cppreference.com/w/cpp/types/is_aggregate.html",
+    "title": "std::is_aggregate",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; URL matches C++17 feature: is_aggregate"
+  },
+  {
+    "filename": "page_00209.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_scoped_lock",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++17 feature: scoped_lock"
+  },
+  {
+    "filename": "page_00210.html",
+    "url": "https://en.cppreference.com/w/cpp/thread/scoped_lock.html",
+    "title": "std::scoped_lock",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; Has C++11 since marker; URL matches C++11 feature: thread; URL matches C++17 feature: scoped_lock"
+  },
+  {
+    "filename": "page_00211.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_hardware_interference_size",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00212.html",
+    "url": "https://en.cppreference.com/w/cpp/thread/hardware_destructive_interference_size.html",
+    "title": "std::hardware_destructive_interference_size, std::hardware_constructive_interference_size",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; URL matches C++11 feature: thread; URL matches C++17 feature: hardware_destructive_interference"
+  },
+  {
+    "filename": "page_00213.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_filesystem",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++17 feature: filesystem"
+  },
+  {
+    "filename": "page_00214.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_constexpr_string",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: constexpr"
+  },
+  {
+    "filename": "page_00215.html",
+    "url": "https://en.cppreference.com/w/cpp/string/char_traits.html",
+    "title": "std::char_traits",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00216.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_shared_ptr_arrays",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: shared_ptr"
+  },
+  {
+    "filename": "page_00217.html",
+    "url": "https://en.cppreference.com/w/cpp/memory/shared_ptr.html",
+    "title": "std::shared_ptr",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: shared_ptr"
+  },
+  {
+    "filename": "page_00218.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_chrono",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: chrono"
+  },
+  {
+    "filename": "page_00219.html",
+    "url": "https://en.cppreference.com/w/cpp/chrono/time_point.html",
+    "title": "std::chrono::time_point",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: chrono"
+  },
+  {
+    "filename": "page_00220.html",
+    "url": "https://en.cppreference.com/w/cpp/chrono/duration.html",
+    "title": "std::chrono::duration",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: chrono"
+  },
+  {
+    "filename": "page_00221.html",
+    "url": "https://en.cppreference.com/w/cpp/memory/weak_ptr.html",
+    "title": "std::weak_ptr",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: weak_ptr"
+  },
+  {
+    "filename": "page_00222.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_to_chars",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++17 feature: to_chars"
+  },
+  {
+    "filename": "page_00223.html",
+    "url": "https://en.cppreference.com/w/cpp/utility/from_chars.html",
+    "title": "std::from_chars",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; Has C++11 since marker; URL matches C++17 feature: from_chars"
+  },
+  {
+    "filename": "page_00224.html",
+    "url": "https://en.cppreference.com/w/cpp/utility/to_chars.html",
+    "title": "std::to_chars",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; Has C++11 since marker; URL matches C++17 feature: to_chars"
+  },
+  {
+    "filename": "page_00225.html",
+    "url": "https://en.cppreference.com/w/cpp/utility.html#Elementary_string_conversions",
+    "title": "Utility library",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00226.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_shared_ptr_weak_type",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: shared_ptr"
+  },
+  {
+    "filename": "page_00227.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_raw_memory_algorithms",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00228.html",
+    "url": "https://en.cppreference.com/w/cpp/memory.html#Uninitialized_storage",
+    "title": "Memory management library",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00229.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_launder",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++17 feature: launder"
+  },
+  {
+    "filename": "page_00230.html",
+    "url": "https://en.cppreference.com/w/cpp/utility/launder.html",
+    "title": "std::launder",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; URL matches C++17 feature: launder"
+  },
+  {
+    "filename": "page_00231.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_gcd_lcm",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++17 feature: gcd"
+  },
+  {
+    "filename": "page_00232.html",
+    "url": "https://en.cppreference.com/w/cpp/numeric/lcm.html",
+    "title": "std::lcm",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; URL matches C++17 feature: lcm"
+  },
+  {
+    "filename": "page_00233.html",
+    "url": "https://en.cppreference.com/w/cpp/numeric/gcd.html",
+    "title": "std::gcd",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; URL matches C++17 feature: gcd"
+  },
+  {
+    "filename": "page_00234.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_has_unique_object_representations",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00235.html",
+    "url": "https://en.cppreference.com/w/cpp/types/has_unique_object_representations.html",
+    "title": "std::has_unique_object_representations",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; Has C++11 since marker"
+  },
+  {
+    "filename": "page_00236.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_make_from_tuple",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: tuple"
+  },
+  {
+    "filename": "page_00237.html",
+    "url": "https://en.cppreference.com/w/cpp/utility/make_from_tuple.html",
+    "title": "std::make_from_tuple",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; Has C++11 since marker; URL matches C++11 feature: tuple"
+  },
+  {
+    "filename": "page_00238.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_variant",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++17 feature: variant"
+  },
+  {
+    "filename": "page_00239.html",
+    "url": "https://en.cppreference.com/w/cpp/utility/variant.html",
+    "title": "std::variant",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; URL matches C++17 feature: variant"
+  },
+  {
+    "filename": "page_00240.html",
+    "url": "https://en.cppreference.com/w/cpp/container.html#Function_table",
+    "title": "Containers library",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: function"
+  },
+  {
+    "filename": "page_00241.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_node_extract",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00242.html",
+    "url": "https://en.cppreference.com/w/cpp/container/set/merge.html",
+    "title": "std::set<Key,Compare,Allocator>::merge",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker"
+  },
+  {
+    "filename": "page_00243.html",
+    "url": "https://en.cppreference.com/w/cpp/container/map/merge.html",
+    "title": "std::map<Key,T,Compare,Allocator>::merge",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker"
+  },
+  {
+    "filename": "page_00244.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_optional",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++17 feature: optional"
+  },
+  {
+    "filename": "page_00245.html",
+    "url": "https://en.cppreference.com/w/cpp/utility/optional.html",
+    "title": "std::optional",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; URL matches C++17 feature: optional"
+  },
+  {
+    "filename": "page_00246.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_any",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++17 feature: any"
+  },
+  {
+    "filename": "page_00247.html",
+    "url": "https://en.cppreference.com/w/cpp/utility/any.html",
+    "title": "std::any",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; Has C++11 since marker; URL matches C++17 feature: any"
+  },
+  {
+    "filename": "page_00248.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_string_view",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++17 feature: string_view"
+  },
+  {
+    "filename": "page_00249.html",
+    "url": "https://en.cppreference.com/w/cpp/string/basic_string_view.html",
+    "title": "std::basic_string_view",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; Has C++11 since marker; URL matches C++17 feature: string_view"
+  },
+  {
+    "filename": "page_00250.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_byte",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++17 feature: byte"
+  },
+  {
+    "filename": "page_00251.html",
+    "url": "https://en.cppreference.com/w/cpp/types/byte.html",
+    "title": "std::byte",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; URL matches C++17 feature: byte"
+  },
+  {
+    "filename": "page_00252.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_hypot",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00253.html",
+    "url": "https://en.cppreference.com/w/cpp/numeric/math/hypot.html",
+    "title": "std::hypot, std::hypotf, std::hypotl",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00254.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_enable_shared_from_this",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00255.html",
+    "url": "https://en.cppreference.com/w/cpp/memory/enable_shared_from_this/weak_from_this.html",
+    "title": "std::enable_shared_from_this<T>::weak_from_this",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; Has C++11 since marker"
+  },
+  {
+    "filename": "page_00256.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_atomic_is_always_lock_free",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: atomic"
+  },
+  {
+    "filename": "page_00257.html",
+    "url": "https://en.cppreference.com/w/cpp/atomic/atomic.html",
+    "title": "std::atomic",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: atomic"
+  },
+  {
+    "filename": "page_00258.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_array_constexpr",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: constexpr"
+  },
+  {
+    "filename": "page_00259.html",
+    "url": "https://en.cppreference.com/w/cpp/container/array.html",
+    "title": "std::array",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: array"
+  },
+  {
+    "filename": "page_00260.html",
+    "url": "https://en.cppreference.com/w/cpp/iterator/reverse_iterator.html",
+    "title": "std::reverse_iterator",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "low",
+    "category": "library",
+    "reason": "Content mentions C++17"
+  },
+  {
+    "filename": "page_00261.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_addressof_constexpr",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: constexpr"
+  },
+  {
+    "filename": "page_00262.html",
+    "url": "https://en.cppreference.com/w/cpp/memory/addressof.html",
+    "title": "std::addressof",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00263.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_math_special_functions",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: function"
+  },
+  {
+    "filename": "page_00264.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_sample",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++17 feature: sample"
+  },
+  {
+    "filename": "page_00265.html",
+    "url": "https://en.cppreference.com/w/cpp/algorithm/sample.html",
+    "title": "std::sample",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; Has C++11 since marker; URL matches C++17 feature: sample"
+  },
+  {
+    "filename": "page_00266.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_boyer_moore_searcher",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00267.html",
+    "url": "https://en.cppreference.com/w/cpp/functional.html#Searchers",
+    "title": "Function objects",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: function"
+  },
+  {
+    "filename": "page_00268.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_apply",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++17 feature: apply"
+  },
+  {
+    "filename": "page_00269.html",
+    "url": "https://en.cppreference.com/w/cpp/utility/apply.html",
+    "title": "std::apply",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; Has C++11 since marker; URL matches C++17 feature: apply"
+  },
+  {
+    "filename": "page_00270.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_memory_resource",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++17 feature: memory_resource"
+  },
+  {
+    "filename": "page_00271.html",
+    "url": "https://en.cppreference.com/w/cpp/header/memory_resource.html",
+    "title": "Standard library header <memory_resource> (C++17)",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "header",
+    "reason": "Has C++17 since marker; URL matches C++17 feature: memory_resource"
+  },
+  {
+    "filename": "page_00272.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_is_swappable",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00273.html",
+    "url": "https://en.cppreference.com/w/cpp/types/is_swappable.html",
+    "title": "std::is_swappable_with, std::is_swappable, std::is_nothrow_swappable_with, std::is_nothrow_swappable",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; Has C++11 since marker"
+  },
+  {
+    "filename": "page_00274.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_clamp",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++17 feature: clamp"
+  },
+  {
+    "filename": "page_00275.html",
+    "url": "https://en.cppreference.com/w/cpp/algorithm/clamp.html",
+    "title": "std::clamp",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; Has C++11 since marker; URL matches C++17 feature: clamp"
+  },
+  {
+    "filename": "page_00276.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_parallel_algorithm",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++17 feature: parallel"
+  },
+  {
+    "filename": "page_00277.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_execution",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++17 feature: execution"
+  },
+  {
+    "filename": "page_00278.html",
+    "url": "https://en.cppreference.com/w/cpp/algorithm.html#Execution_policies",
+    "title": "Algorithms library",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++17 since marker; Has C++11 since marker; URL matches C++17 feature: execution"
+  },
+  {
+    "filename": "page_00279.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_not_fn",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00280.html",
+    "url": "https://en.cppreference.com/w/cpp/utility/functional/not_fn.html",
+    "title": "std::not_fn",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; URL matches C++11 feature: function"
+  },
+  {
+    "filename": "page_00281.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_transparent_operators",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00282.html",
+    "url": "https://en.cppreference.com/w/cpp/memory/owner_less.html",
+    "title": "std::owner_less",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00283.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_as_const",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00284.html",
+    "url": "https://en.cppreference.com/w/cpp/utility/as_const.html",
+    "title": "std::as_const",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; Has C++11 since marker"
+  },
+  {
+    "filename": "page_00285.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_logical_traits",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00286.html",
+    "url": "https://en.cppreference.com/w/cpp/meta.html#Operations_on_traits",
+    "title": "Metaprogramming library (since C++11)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: ratio"
+  },
+  {
+    "filename": "page_00287.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_type_trait_variable_templates",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00288.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_incomplete_container_elements",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00289.html",
+    "url": "https://en.cppreference.com/w/cpp/container/vector.html",
+    "title": "std::vector",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; Has C++11 since marker"
+  },
+  {
+    "filename": "page_00290.html",
+    "url": "https://en.cppreference.com/w/cpp/container/list.html",
+    "title": "std::list",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; Has C++11 since marker"
+  },
+  {
+    "filename": "page_00291.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_shared_mutex",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: mutex; URL matches C++17 feature: shared_mutex"
+  },
+  {
+    "filename": "page_00292.html",
+    "url": "https://en.cppreference.com/w/cpp/thread/shared_mutex.html",
+    "title": "std::shared_mutex",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; Has C++11 since marker; URL matches C++11 feature: thread; URL matches C++17 feature: shared_mutex"
+  },
+  {
+    "filename": "page_00293.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_bool_constant",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++17 feature: bool_constant"
+  },
+  {
+    "filename": "page_00294.html",
+    "url": "https://en.cppreference.com/w/cpp/types/integral_constant.html",
+    "title": "std::integral_constant",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00295.html",
+    "url": "https://en.cppreference.com/w/cpp/utility/tuple.html",
+    "title": "std::tuple",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: tuple"
+  },
+  {
+    "filename": "page_00296.html",
+    "url": "https://en.cppreference.com/w/cpp/utility/pair.html",
+    "title": "std::pair",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00297.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_unordered_map_try_emplace",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: unordered_map"
+  },
+  {
+    "filename": "page_00298.html",
+    "url": "https://en.cppreference.com/w/cpp/container/unordered_map/insert_or_assign.html",
+    "title": "std::unordered_map<Key,T,Hash,KeyEqual,Allocator>::insert_or_assign",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; URL matches C++11 feature: unordered_map"
+  },
+  {
+    "filename": "page_00299.html",
+    "url": "https://en.cppreference.com/w/cpp/container/unordered_map/try_emplace.html",
+    "title": "std::unordered_map<Key,T,Hash,KeyEqual,Allocator>::try_emplace",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; URL matches C++11 feature: unordered_map"
+  },
+  {
+    "filename": "page_00300.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_map_try_emplace",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00301.html",
+    "url": "https://en.cppreference.com/w/cpp/container/map/insert_or_assign.html",
+    "title": "std::map<Key,T,Compare,Allocator>::insert_or_assign",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; Has C++11 since marker"
+  },
+  {
+    "filename": "page_00302.html",
+    "url": "https://en.cppreference.com/w/cpp/container/map/try_emplace.html",
+    "title": "std::map<Key,T,Compare,Allocator>::try_emplace",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; Has C++11 since marker"
+  },
+  {
+    "filename": "page_00303.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_invoke",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++17 feature: invoke"
+  },
+  {
+    "filename": "page_00304.html",
+    "url": "https://en.cppreference.com/w/cpp/utility/functional/invoke.html",
+    "title": "std::invoke, std::invoke_r",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; Has C++11 since marker; URL matches C++11 feature: function; URL matches C++17 feature: invoke"
+  },
+  {
+    "filename": "page_00305.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_allocator_traits_is_always_equal",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00306.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_nonmember_container_access",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00307.html",
+    "url": "https://en.cppreference.com/w/cpp/iterator/data.html",
+    "title": "std::data",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker"
+  },
+  {
+    "filename": "page_00308.html",
+    "url": "https://en.cppreference.com/w/cpp/iterator/empty.html",
+    "title": "std::empty",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker"
+  },
+  {
+    "filename": "page_00309.html",
+    "url": "https://en.cppreference.com/w/cpp/iterator/size.html",
+    "title": "std::size, std::ssize",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker"
+  },
+  {
+    "filename": "page_00310.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_uncaught_exceptions",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00311.html",
+    "url": "https://en.cppreference.com/w/cpp/error/exception/uncaught_exception.html",
+    "title": "std::uncaught_exception, std::uncaught_exceptions",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00312.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_lib_void_t",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++17 feature: void_t"
+  },
+  {
+    "filename": "page_00313.html",
+    "url": "https://en.cppreference.com/w/cpp/types/void_t.html",
+    "title": "std::void_t",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; Has C++11 since marker; URL matches C++17 feature: void_t"
+  },
+  {
+    "filename": "page_00314.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_deduction_guides",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++17 feature: deduction_guides"
+  },
+  {
+    "filename": "page_00315.html",
+    "url": "https://en.cppreference.com/w/cpp/language/ctad.html",
+    "title": "Class template argument deduction (CTAD) (since C++17)",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "URL matches C++17 feature: ctad"
+  },
+  {
+    "filename": "page_00316.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_template_template_args",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00317.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_variadic_using",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: variadic"
+  },
+  {
+    "filename": "page_00318.html",
+    "url": "https://en.cppreference.com/w/cpp/language/except_spec.html",
+    "title": "Dynamic exception specification (until C++17)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker"
+  },
+  {
+    "filename": "page_00319.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_inline_variables",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++17 feature: inline_variables"
+  },
+  {
+    "filename": "page_00320.html",
+    "url": "https://en.cppreference.com/w/cpp/language/inline.html",
+    "title": "inline specifier",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00321.html",
+    "url": "https://en.cppreference.com/w/cpp/language/switch.html",
+    "title": "switch statement",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00322.html",
+    "url": "https://en.cppreference.com/w/cpp/language/if.html",
+    "title": "if statement",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00323.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_if_constexpr",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: constexpr; URL matches C++17 feature: if_constexpr"
+  },
+  {
+    "filename": "page_00324.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_structured_bindings",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: bind; URL matches C++17 feature: structured_binding"
+  },
+  {
+    "filename": "page_00325.html",
+    "url": "https://en.cppreference.com/w/cpp/language/structured_binding.html",
+    "title": "Structured binding declaration (since C++17)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; URL matches C++11 feature: bind; URL matches C++17 feature: structured_binding"
+  },
+  {
+    "filename": "page_00326.html",
+    "url": "https://en.cppreference.com/w/cpp/language/eval_order.html",
+    "title": "Order of evaluation",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00327.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_guaranteed_copy_elision",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++17 feature: guaranteed_copy_elision"
+  },
+  {
+    "filename": "page_00328.html",
+    "url": "https://en.cppreference.com/w/cpp/language/copy_elision.html",
+    "title": "Copy elision",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++17 feature: copy_elision"
+  },
+  {
+    "filename": "page_00329.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_nontype_template_parameter_auto",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: auto"
+  },
+  {
+    "filename": "page_00330.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_aligned_new",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00331.html",
+    "url": "https://en.cppreference.com/w/cpp/language/new.html",
+    "title": "new expression",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00332.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_hex_float",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00333.html",
+    "url": "https://en.cppreference.com/w/cpp/language/floating_literal.html",
+    "title": "Floating-point literal",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++17 since marker; Has C++11 since marker"
+  },
+  {
+    "filename": "page_00334.html",
+    "url": "https://en.cppreference.com/w/cpp/language/attributes/maybe_unused.html",
+    "title": "C++ attribute: maybe_unused (since C++17)",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "URL matches C++17 feature: maybe_unused"
+  },
+  {
+    "filename": "page_00335.html",
+    "url": "https://en.cppreference.com/w/cpp/language/attributes/nodiscard.html",
+    "title": "C++ attribute: nodiscard (since C++17)",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++17 since marker; Has C++11 since marker; URL matches C++17 feature: nodiscard"
+  },
+  {
+    "filename": "page_00336.html",
+    "url": "https://en.cppreference.com/w/cpp/language/attributes/fallthrough.html",
+    "title": "C++ attribute: fallthrough (since C++17)",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "URL matches C++17 feature: fallthrough"
+  },
+  {
+    "filename": "page_00337.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_capture_star_this",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00338.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_fold_expressions",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++17 feature: fold"
+  },
+  {
+    "filename": "page_00339.html",
+    "url": "https://en.cppreference.com/w/cpp/language/fold.html",
+    "title": "Fold expressions (since C++17)",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "URL matches C++17 feature: fold"
+  },
+  {
+    "filename": "page_00340.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_aggregate_bases",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00341.html",
+    "url": "https://en.cppreference.com/w/cpp/language/aggregate_initialization.html",
+    "title": "Aggregate initialization",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00342.html",
+    "url": "https://en.cppreference.com/w/cpp/preprocessor/include.html",
+    "title": "Source file inclusion",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++17 since marker"
+  },
+  {
+    "filename": "page_00343.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_noexcept_function_type",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: noexcept"
+  },
+  {
+    "filename": "page_00344.html",
+    "url": "https://en.cppreference.com/w/cpp/keyword/register.html",
+    "title": "C++ keyword: register",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++17 since marker"
+  },
+  {
+    "filename": "page_00345.html",
+    "url": "https://en.cppreference.com/w/cpp/language/fold.html#Explanation",
+    "title": "Fold expressions (since C++17)",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "URL matches C++17 feature: fold"
+  },
+  {
+    "filename": "page_00346.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_nontype_template_args",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00347.html",
+    "url": "https://en.cppreference.com/w/cpp/language/character_literal.html",
+    "title": "Character literal",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++17 since marker; Has C++11 since marker"
+  },
+  {
+    "filename": "page_00348.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_namespace_attributes",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00349.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/feature_test.html#cpp_enumerator_attributes",
+    "title": "Feature testing (since C++20)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: enum"
+  },
+  {
+    "filename": "page_00350.html",
+    "url": "https://en.cppreference.com/w/cpp/language/namespace.html#Syntax",
+    "title": "Namespaces",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00351.html",
+    "url": "https://en.cppreference.com/w/cpp/language/operator_alternative.html#Trigraphs",
+    "title": "Alternative operator representations",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "low",
+    "category": "language",
+    "reason": "Content mentions C++11"
+  },
+  {
+    "filename": "page_00352.html",
+    "url": "https://en.cppreference.com/w/cpp/chrono/c/timespec_get.html",
+    "title": "std::timespec_get",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; URL matches C++11 feature: chrono"
+  },
+  {
+    "filename": "page_00353.html",
+    "url": "https://en.cppreference.com/w/cpp/atomic/atomic/is_always_lock_free.html",
+    "title": "std::atomic<T>::is_always_lock_free",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; Has C++11 since marker; URL matches C++11 feature: atomic"
+  },
+  {
+    "filename": "page_00354.html",
+    "url": "https://en.cppreference.com/w/cpp/named_req/ContiguousIterator.html",
+    "title": "C++ named requirements: LegacyContiguousIterator (since C++17)",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "low",
+    "category": "general",
+    "reason": "Content mentions C++17"
+  },
+  {
+    "filename": "page_00355.html",
+    "url": "https://en.cppreference.com/w/cpp/container/map/extract.html",
+    "title": "std::map<Key,T,Compare,Allocator>::extract",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker"
+  },
+  {
+    "filename": "page_00356.html",
+    "url": "https://en.cppreference.com/w/cpp/algorithm/reduce.html",
+    "title": "std::reduce",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; URL matches C++17 feature: reduce"
+  },
+  {
+    "filename": "page_00357.html",
+    "url": "https://en.cppreference.com/w/cpp/algorithm/exclusive_scan.html",
+    "title": "std::exclusive_scan",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; URL matches C++17 feature: exclusive_scan"
+  },
+  {
+    "filename": "page_00358.html",
+    "url": "https://en.cppreference.com/w/cpp/algorithm/inclusive_scan.html",
+    "title": "std::inclusive_scan",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; URL matches C++17 feature: inclusive_scan"
+  },
+  {
+    "filename": "page_00359.html",
+    "url": "https://en.cppreference.com/w/cpp/algorithm/execution_policy_tag_t.html",
+    "title": "std::execution::sequenced_policy, std::execution::parallel_policy, std::execution::parallel_unsequenced_policy, std::execution::unsequenced_policy",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; URL matches C++17 feature: execution"
+  },
+  {
+    "filename": "page_00360.html",
+    "url": "https://en.cppreference.com/w/cpp/types/is_invocable.html",
+    "title": "std::is_invocable, std::is_invocable_r, std::is_nothrow_invocable, std::is_nothrow_invocable_r",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; Has C++11 since marker; URL matches C++17 feature: is_invocable"
+  },
+  {
+    "filename": "page_00361.html",
+    "url": "https://en.cppreference.com/w/cpp/utility/rtti.html",
+    "title": "Type support (basic types, RTTI)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00362.html",
+    "url": "https://en.cppreference.com/w/cpp/types/negation.html",
+    "title": "std::negation",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; Has C++11 since marker; URL matches C++17 feature: negation"
+  },
+  {
+    "filename": "page_00363.html",
+    "url": "https://en.cppreference.com/w/cpp/types/disjunction.html",
+    "title": "std::disjunction",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; URL matches C++17 feature: disjunction"
+  },
+  {
+    "filename": "page_00364.html",
+    "url": "https://en.cppreference.com/w/cpp/types/conjunction.html",
+    "title": "std::conjunction",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; URL matches C++17 feature: conjunction"
+  },
+  {
+    "filename": "page_00365.html",
+    "url": "https://en.cppreference.com/w/cpp/memory/new/operator_new.html",
+    "title": "operator new, operator new[]",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; Has C++11 since marker"
+  },
+  {
+    "filename": "page_00366.html",
+    "url": "https://en.cppreference.com/w/cpp/memory/c/aligned_alloc.html",
+    "title": "std::aligned_alloc",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; Has C++11 since marker"
+  },
+  {
+    "filename": "page_00367.html",
+    "url": "https://en.cppreference.com/w/cpp/memory/polymorphic_allocator.html",
+    "title": "std::pmr::polymorphic_allocator",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; URL matches C++17 feature: polymorphic_allocator"
+  },
+  {
+    "filename": "page_00368.html",
+    "url": "https://en.cppreference.com/w/cpp/memory/memory_resource.html",
+    "title": "std::pmr::memory_resource",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; URL matches C++17 feature: memory_resource"
+  },
+  {
+    "filename": "page_00369.html",
+    "url": "https://en.cppreference.com/w/cpp/memory/uninitialized_value_construct.html",
+    "title": "std::uninitialized_value_construct",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker"
+  },
+  {
+    "filename": "page_00370.html",
+    "url": "https://en.cppreference.com/w/cpp/memory/uninitialized_move.html",
+    "title": "std::uninitialized_move",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker"
+  },
+  {
+    "filename": "page_00371.html",
+    "url": "https://en.cppreference.com/w/cpp/memory/destroy_n.html",
+    "title": "std::destroy_n",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker"
+  },
+  {
+    "filename": "page_00372.html",
+    "url": "https://en.cppreference.com/w/cpp/memory/destroy.html",
+    "title": "std::destroy",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker"
+  },
+  {
+    "filename": "page_00373.html",
+    "url": "https://en.cppreference.com/w/cpp/memory/destroy_at.html",
+    "title": "std::destroy_at",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker"
+  },
+  {
+    "filename": "page_00374.html",
+    "url": "https://en.cppreference.com/w/cpp/utility/tuple/deduction_guides.html",
+    "title": "deduction guides for std::tuple",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; URL matches C++11 feature: tuple; URL matches C++17 feature: deduction_guides"
+  },
+  {
+    "filename": "page_00375.html",
+    "url": "https://en.cppreference.com/w/cpp/header/variant.html",
+    "title": "Standard library header <variant> (C++17)",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "header",
+    "reason": "Has C++17 since marker; URL matches C++17 feature: variant"
+  },
+  {
+    "filename": "page_00376.html",
+    "url": "https://en.cppreference.com/w/cpp/header/string_view.html",
+    "title": "Standard library header <string_view> (C++17)",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "header",
+    "reason": "Has C++17 since marker; Has C++11 since marker; URL matches C++17 feature: string_view"
+  },
+  {
+    "filename": "page_00377.html",
+    "url": "https://en.cppreference.com/w/cpp/header/optional.html",
+    "title": "Standard library header <optional> (C++17)",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "header",
+    "reason": "Has C++17 since marker; Has C++11 since marker; URL matches C++17 feature: optional"
+  },
+  {
+    "filename": "page_00378.html",
+    "url": "https://en.cppreference.com/w/cpp/header/filesystem.html",
+    "title": "Standard library header <filesystem> (C++17)",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "header",
+    "reason": "Has C++17 since marker; Has C++11 since marker; URL matches C++17 feature: filesystem"
+  },
+  {
+    "filename": "page_00379.html",
+    "url": "https://en.cppreference.com/w/cpp/header/execution.html",
+    "title": "Standard library header <execution> (C++17)",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "header",
+    "reason": "Has C++17 since marker; URL matches C++17 feature: execution"
+  },
+  {
+    "filename": "page_00380.html",
+    "url": "https://en.cppreference.com/w/cpp/header/charconv.html",
+    "title": "Standard library header <charconv> (C++17)",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "header",
+    "reason": "Has C++17 since marker; URL matches C++17 feature: charconv"
+  },
+  {
+    "filename": "page_00381.html",
+    "url": "https://en.cppreference.com/w/cpp/header/any.html",
+    "title": "Standard library header <any> (C++17)",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "header",
+    "reason": "Has C++17 since marker; URL matches C++17 feature: any"
+  },
+  {
+    "filename": "page_00382.html",
+    "url": "https://en.cppreference.com/w/cpp/language/namespace.html",
+    "title": "Namespaces",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00383.html",
+    "url": "https://en.cppreference.com/w/cpp/language/template_parameters.html",
+    "title": "Template parameters",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00384.html",
+    "url": "https://en.cppreference.com/w/cpp/language/implicit_cast.html#Temporary_materialization",
+    "title": "Implicit conversions",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++17 since marker; Has C++11 since marker"
+  },
+  {
+    "filename": "page_00385.html",
+    "url": "https://en.cppreference.com/w/cpp/keyword/constexpr.html",
+    "title": "C++ keyword: constexpr (since C++11)",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++17 since marker; URL matches C++11 feature: constexpr"
+  },
+  {
+    "filename": "page_00386.html",
+    "url": "https://en.cppreference.com/w/cpp/language/lambda.html#Lambda_capture",
+    "title": "Lambda expressions (since C++11)",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++17 since marker; Has C++11 since marker; URL matches C++11 feature: lambda"
+  },
+  {
+    "filename": "page_00387.html",
+    "url": "https://en.cppreference.com/w/cpp/header/codecvt.html",
+    "title": "Standard library header <codecvt> (C++11)(deprecated in C++17)(removed in C++26)",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "header",
+    "reason": "Has C++11 since marker; Removed in C++17: codecvt"
+  },
+  {
+    "filename": "page_00388.html",
+    "url": "https://en.cppreference.com/w/cpp/types/is_literal_type.html",
+    "title": "std::is_literal_type",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Has C++17 since marker; Removed in C++17: is_literal_type"
+  },
+  {
+    "filename": "page_00389.html",
+    "url": "https://en.cppreference.com/w/cpp/memory/get_temporary_buffer.html",
+    "title": "std::get_temporary_buffer",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Removed in C++17: get_temporary_buffer"
+  },
+  {
+    "filename": "page_00390.html",
+    "url": "https://en.cppreference.com/w/cpp/memory/raw_storage_iterator.html",
+    "title": "std::raw_storage_iterator",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++17 since marker; Has C++11 since marker; Removed in C++17: raw_storage_iterator"
+  },
+  {
+    "filename": "page_00391.html",
+    "url": "https://en.cppreference.com/w/cpp/iterator/iterator.html",
+    "title": "std::iterator",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "low",
+    "category": "library",
+    "reason": "Content mentions C++17"
+  },
+  {
+    "filename": "page_00392.html",
+    "url": "https://en.cppreference.com/w/cpp/language/operator_incdec.html",
+    "title": "Increment/decrement operators",
+    "versions": [
+      "cpp17",
+      "cpp11"
+    ],
+    "confidence": "medium",
+    "category": "language",
+    "reason": "Has C++17 since marker; Has C++11 since marker"
+  },
+  {
+    "filename": "page_00393.html",
+    "url": "https://en.cppreference.com/w/cpp/language/operator_alternative.html#Trigraphs_.28removed_in_C.2B.2B17.29",
+    "title": "Alternative operator representations",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "low",
+    "category": "language",
+    "reason": "Content mentions C++11"
+  },
+  {
+    "filename": "page_00394.html",
+    "url": "https://en.cppreference.com/w/cpp/io/ios_base.html#Deprecated_member_types",
+    "title": "std::ios_base",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "low",
+    "category": "library",
+    "reason": "Content mentions C++17"
+  },
+  {
+    "filename": "page_00395.html",
+    "url": "https://en.cppreference.com/w/cpp/error/unexpected.html",
+    "title": "std::unexpected",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; Removed in C++17: unexpected"
+  },
+  {
+    "filename": "page_00396.html",
+    "url": "https://en.cppreference.com/w/cpp/functional.html#Old_binders_and_adaptors",
+    "title": "Function objects",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker; URL matches C++11 feature: function"
+  },
+  {
+    "filename": "page_00397.html",
+    "url": "https://en.cppreference.com/w/cpp/memory/auto_ptr.html",
+    "title": "std::auto_ptr",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "library",
+    "reason": "Has C++11 since marker; URL matches C++11 feature: auto; Removed in C++17: auto_ptr"
+  },
+  {
+    "filename": "page_00398.html",
+    "url": "https://en.cppreference.com/w/cpp/17.html#External_links",
+    "title": "C++17",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "high",
+    "category": "general",
+    "reason": "URL contains C++17 reference"
+  },
+  {
+    "filename": "page_00399.html",
+    "url": "https://en.cppreference.com/w/cpp/17.html#Notes",
+    "title": "C++17",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "high",
+    "category": "general",
+    "reason": "URL contains C++17 reference"
+  },
+  {
+    "filename": "page_00400.html",
+    "url": "https://en.cppreference.com/w/cpp/17.html#C.2B.2B17_library_features",
+    "title": "C++17",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "high",
+    "category": "general",
+    "reason": "URL contains C++17 reference"
+  },
+  {
+    "filename": "page_00401.html",
+    "url": "https://en.cppreference.com/w/cpp/17.html#C.2B.2B17_core_language_features",
+    "title": "C++17",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "high",
+    "category": "general",
+    "reason": "URL contains C++17 reference"
+  },
+  {
+    "filename": "page_00402.html",
+    "url": "https://en.cppreference.com/w/cpp/17.html#Compiler_support",
+    "title": "C++17",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "high",
+    "category": "general",
+    "reason": "URL contains C++17 reference"
+  },
+  {
+    "filename": "page_00403.html",
+    "url": "https://en.cppreference.com/w/cpp/17.html#Defect_reports",
+    "title": "C++17",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "high",
+    "category": "general",
+    "reason": "URL contains C++17 reference"
+  },
+  {
+    "filename": "page_00404.html",
+    "url": "https://en.cppreference.com/w/cpp/17.html#Others",
+    "title": "C++17",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "high",
+    "category": "general",
+    "reason": "URL contains C++17 reference"
+  },
+  {
+    "filename": "page_00405.html",
+    "url": "https://en.cppreference.com/w/cpp/17.html#Numerics",
+    "title": "C++17",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "high",
+    "category": "general",
+    "reason": "URL contains C++17 reference"
+  },
+  {
+    "filename": "page_00406.html",
+    "url": "https://en.cppreference.com/w/cpp/17.html#Iterators_and_containers",
+    "title": "C++17",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "high",
+    "category": "general",
+    "reason": "URL contains C++17 reference"
+  },
+  {
+    "filename": "page_00407.html",
+    "url": "https://en.cppreference.com/w/cpp/17.html#Algorithms",
+    "title": "C++17",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "high",
+    "category": "general",
+    "reason": "URL contains C++17 reference"
+  },
+  {
+    "filename": "page_00408.html",
+    "url": "https://en.cppreference.com/w/cpp/17.html#Compile-time_programming",
+    "title": "C++17",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "high",
+    "category": "general",
+    "reason": "URL contains C++17 reference"
+  },
+  {
+    "filename": "page_00409.html",
+    "url": "https://en.cppreference.com/w/cpp/17.html#Memory_management",
+    "title": "C++17",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "high",
+    "category": "general",
+    "reason": "URL contains C++17 reference"
+  },
+  {
+    "filename": "page_00410.html",
+    "url": "https://en.cppreference.com/w/cpp/17.html#Utility_types",
+    "title": "C++17",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "high",
+    "category": "general",
+    "reason": "URL contains C++17 reference"
+  },
+  {
+    "filename": "page_00411.html",
+    "url": "https://en.cppreference.com/w/cpp/17.html#New_library_features",
+    "title": "C++17",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "high",
+    "category": "general",
+    "reason": "URL contains C++17 reference"
+  },
+  {
+    "filename": "page_00412.html",
+    "url": "https://en.cppreference.com/w/cpp/17.html#New_headers",
+    "title": "C++17",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "high",
+    "category": "general",
+    "reason": "URL contains C++17 reference"
+  },
+  {
+    "filename": "page_00413.html",
+    "url": "https://en.cppreference.com/w/cpp/17.html#New_language_features",
+    "title": "C++17",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "high",
+    "category": "general",
+    "reason": "URL contains C++17 reference"
+  },
+  {
+    "filename": "page_00414.html",
+    "url": "https://en.cppreference.com/w/cpp/17.html#Deprecated_features",
+    "title": "C++17",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "high",
+    "category": "general",
+    "reason": "URL contains C++17 reference"
+  },
+  {
+    "filename": "page_00415.html",
+    "url": "https://en.cppreference.com/w/cpp/17.html#Removed_features",
+    "title": "C++17",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "high",
+    "category": "general",
+    "reason": "URL contains C++17 reference"
+  },
+  {
+    "filename": "page_00416.html",
+    "url": "https://en.cppreference.com/w/cpp/17.html#Obsolete_features",
+    "title": "C++17",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "high",
+    "category": "general",
+    "reason": "URL contains C++17 reference"
+  },
+  {
+    "filename": "page_00417.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/special_math.html",
+    "title": "Mathematical special functions",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "low",
+    "category": "general",
+    "reason": "General reference page - assigned to both versions"
+  },
+  {
+    "filename": "page_00418.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/parallelism.html",
+    "title": "Extensions for parallelism",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "URL matches C++17 feature: parallel"
+  },
+  {
+    "filename": "page_00419.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/lib_extensions_2.html",
+    "title": "C++ standard libraries extensions, version 2",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "low",
+    "category": "general",
+    "reason": "Content mentions C++17"
+  },
+  {
+    "filename": "page_00420.html",
+    "url": "https://en.cppreference.com/w/cpp/memory.html#Allocators",
+    "title": "Memory management library",
+    "versions": [
+      "cpp11",
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++11 since marker; Has C++17 since marker"
+  },
+  {
+    "filename": "page_00421.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/memory.html",
+    "title": "C++ standard libraries extensions",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "low",
+    "category": "general",
+    "reason": "Content mentions C++17"
+  },
+  {
+    "filename": "page_00422.html",
+    "url": "https://en.cppreference.com/w/cpp/experimental/fs.html",
+    "title": "Filesystem library",
+    "versions": [
+      "cpp17"
+    ],
+    "confidence": "medium",
+    "category": "general",
+    "reason": "Has C++17 since marker"
+  }
+]
